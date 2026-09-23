@@ -14,8 +14,8 @@ For each grid cell and year, we keep the drydown with the highest CWD and attach
 weekly EVI values to it.
 
 From these data we extract two states for each grid cell:
-- the peak state: the 5 % of weeks with the highest EVI, and the CWD at those weeks
-- the low state: the 5 % of weeks with the lowest EVI, and the CWD at those weeks
+- the peak state: the 5% of weeks with the highest EVI, and the CWD at those weeks
+- the low state: the 5% of weeks with the lowest EVI, and the CWD at those weeks
 
 If the low state happens at a higher CWD than the peak state, EVI decreases as the
 deficit grows and the grid cell is water-limited (WL). If it happens at a lower CWD,
