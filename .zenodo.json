@@ -1,0 +1,29 @@
+{
+  "title": "Analysis code for: Vegetation dynamics along drydowns across global climate zones",
+  "upload_type": "software",
+  "description": "<p>R code used to detect drydown events from a global daily water balance, accumulate cumulative water deficit (CWD), extract the high and low EVI percentile states along drydowns, classify energy-limited and water-limited regimes, compute the EVI-CWD sensitivity S, and produce the figures and tables of the associated manuscript.</p><p>Input datasets are not redistributed here; they are obtained from their original public sources, listed in the README.</p>",
+  "creators": [
+    {
+      "name": "Terristi, Myriam",
+      "affiliation": "Leipzig University, Germany; Max Planck Institute for Biogeochemistry, Jena, Germany"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "drydown",
+    "cumulative water deficit",
+    "enhanced vegetation index",
+    "vegetation sensitivity",
+    "drought",
+    "remote sensing"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5194/egusphere-2026-5509",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    }
+  ]
+}
