@@ -6,8 +6,6 @@ This repository contains the R code used in:
 > drydowns across global climate zones, EGUsphere [preprint],
 > https://doi.org/10.5194/egusphere-2026-5509, 2026.
 
-Archived version: https://doi.org/10.5281/zenodo.XXXXXXX
-
 ## Overview
 
 We compute a weekly cumulative water deficit (CWD) from precipitation (MSWEP) and
