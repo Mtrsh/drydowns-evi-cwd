@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived release and the associated paper."
+title: "Analysis code for: Vegetation dynamics along drydowns across global climate zones"
+abstract: >-
+  R code used to detect drydown events from a global daily water balance,
+  accumulate cumulative water deficit (CWD), extract the high and low EVI
+  percentile states along drydowns, classify energy-limited and water-limited
+  regimes, compute the EVI-CWD sensitivity S, and produce the figures and
+  tables of the associated manuscript.
+type: software
+authors:
+  - family-names: Terristi
+    given-names: Myriam
+    affiliation: "Leipzig University, Germany; Max Planck Institute for Biogeochemistry, Jena, Germany"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add your ORCID
+version: 1.0.0
+date-released: 2026-09-23
+license: MIT
+repository-code: "https://github.com/Mtrsh/drydowns-evi-cwd"
+keywords:
+  - drydown
+  - cumulative water deficit
+  - enhanced vegetation index
+  - vegetation sensitivity
+  - drought
+  - remote sensing
+preferred-citation:
+  type: article
+  title: "Vegetation dynamics along drydowns across global climate zones"
+  authors:
+    - family-names: Terristi
+      given-names: Myriam
+    - family-names: Sippel
+      given-names: Sebastian
+    - family-names: Stocker
+      given-names: "Benjamin D."
+    - family-names: Bastos
+      given-names: Ana
+  journal: "EGUsphere [preprint]"
+  year: 2026
+  doi: "10.5194/egusphere-2026-5509"
